@@ -24,6 +24,7 @@ Verification by : | yanxu.yang@corerain.com
 
 
 如下时conv_out_buffer模块内部结构图。
+
 ![conv_out_buffer Structure](conv_out_buffer_architecture.png)
 
 ## 用例
